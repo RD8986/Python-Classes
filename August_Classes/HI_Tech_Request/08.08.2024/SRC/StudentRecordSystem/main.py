@@ -1,0 +1,2 @@
+import file_handling
+file_handling.manage_studentrecord()
