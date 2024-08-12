@@ -1,0 +1,40 @@
+[
+    {
+        "ID": 1,
+        "Name": "Indra",
+        "Address": "Mirganj",
+        "Number": 8986277483,
+        "Age": 21,
+        "EducationalQualification": [
+            {
+                "qualificationname": "10th",
+                "passingyear": 2019,
+                "percentage": "59"
+            },
+            {
+                "qualificationname": "12th",
+                "passingyear": 2021,
+                "percentage": "53"
+            }
+        ]
+    },
+    {
+        "ID": 2,
+        "Name": "Amit",
+        "Address": "Mirganj",
+        "Number": 6363,
+        "Age": 25,
+        "EducationalQualification": [
+            {
+                "qualificationname": "10th",
+                "passingyear": 2015,
+                "percentage": "68"
+            },
+            {
+                "qualificationname": "12th",
+                "passingyear": 2017,
+                "percentage": "53"
+            }
+        ]
+    }
+]

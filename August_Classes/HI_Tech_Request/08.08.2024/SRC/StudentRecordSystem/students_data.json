@@ -1,24 +1,5 @@
 [
     {
-        "ID": 1,
-        "Name": "Indra",
-        "Address": "Mirganj",
-        "Number": 8986277483,
-        "Age": 21,
-        "EducationalQualification": [
-            {
-                "qualificationname": "10th",
-                "passingyear": 2019,
-                "percentage": "59"
-            },
-            {
-                "qualificationname": "12th",
-                "passingyear": 2021,
-                "percentage": "53"
-            }
-        ]
-    },
-    {
         "ID": 2,
         "Name": "Amit",
         "Address": "Mirganj",
@@ -34,6 +15,187 @@
                 "qualificationname": "12th",
                 "passingyear": 2017,
                 "percentage": "53"
+            }
+        ]
+    },
+    {
+        "ID": 3,
+        "Name": "Anand",
+        "Address": "Mirganj",
+        "Number": 85410677731,
+        "Age": 22,
+        "EducationalQualification": [
+            {
+                "qualificationname": "10th.",
+                "passingyear": 2020,
+                "percentage": "98"
+            },
+            {
+                "qualificationname": "12th",
+                "passingyear": 2022,
+                "percentage": "87"
+            }
+        ]
+    },
+    {
+        "ID": 4,
+        "Name": "Nisha_Modi",
+        "Address": "Mirganj",
+        "Number": 8494879483,
+        "Age": 24,
+        "EducationalQualification": [
+            {
+                "qualificationname": "10th",
+                "passingyear": 2020,
+                "percentage": "76"
+            },
+            {
+                "qualificationname": "12th",
+                "passingyear": 2022,
+                "percentage": "85"
+            }
+        ]
+    },
+    {
+        "ID": 5,
+        "Name": "Roshni_Singh",
+        "Address": "Lachhwar",
+        "Number": 8958957985,
+        "Age": 24,
+        "EducationalQualification": [
+            {
+                "qualificationname": "10th",
+                "passingyear": 2020,
+                "percentage": "85"
+            },
+            {
+                "qualificationname": "12th",
+                "passingyear": 2022,
+                "percentage": "65"
+            }
+        ]
+    },
+    {
+        "ID": 6,
+        "Name": "Mazda_Didi",
+        "Address": "Mirganj",
+        "Number": 8908989898,
+        "Age": 26,
+        "EducationalQualification": [
+            {
+                "qualificationname": "10th",
+                "passingyear": 2017,
+                "percentage": "76"
+            },
+            {
+                "qualificationname": "12th",
+                "passingyear": 2019,
+                "percentage": "54"
+            }
+        ]
+    },
+    {
+        "ID": 7,
+        "Name": "Khushi_Gupta",
+        "Address": "Mirganj",
+        "Number": 8585858585,
+        "Age": 98,
+        "EducationalQualification": [
+            {
+                "qualificationname": "10th",
+                "passingyear": 2021,
+                "percentage": "47"
+            },
+            {
+                "qualificationname": "12th",
+                "passingyear": 2023,
+                "percentage": "34"
+            }
+        ]
+    },
+    {
+        "ID": 8,
+        "Name": "Faiz_Siddique",
+        "Address": "Mirganj",
+        "Number": 854988549584,
+        "Age": 21,
+        "EducationalQualification": [
+            {
+                "qualificationname": "10th",
+                "passingyear": 2021,
+                "percentage": "67"
+            },
+            {
+                "qualificationname": "12th",
+                "passingyear": 2023,
+                "percentage": "87"
+            }
+        ]
+    },
+    {
+        "ID": 1,
+        "Name": "Indra",
+        "Address": "Mirgan",
+        "Number": 89898989899,
+        "Age": 21,
+        "EducationalQualification": [
+            {
+                "qualificationname": "10th",
+                "passingyear": 2019,
+                "percentage": "89"
+            },
+            {
+                "qualificationname": "12th",
+                "passingyear": 2021,
+                "percentage": "67"
+            }
+        ]
+    },
+    {
+        "ID": 9,
+        "Name": "Khushi_Gupta",
+        "Address": "Mirganj",
+        "Number": 89898978766,
+        "Age": 22,
+        "EducationalQualification": [
+            {
+                "qualificationname": "10th",
+                "passingyear": 2016,
+                "percentage": "60"
+            },
+            {
+                "qualificationname": "12th",
+                "passingyear": 2018,
+                "percentage": "60"
+            },
+            {
+                "qualificationname": "Graduation",
+                "passingyear": 2021,
+                "percentage": "60"
+            }
+        ]
+    },
+    {
+        "ID": 10,
+        "Name": "Vimal",
+        "Address": "Uttarakhand",
+        "Number": 898976656545,
+        "Age": 25,
+        "EducationalQualification": [
+            {
+                "qualificationname": "10th",
+                "passingyear": 2016,
+                "percentage": "70"
+            },
+            {
+                "qualificationname": "12th",
+                "passingyear": 2018,
+                "percentage": "73"
+            },
+            {
+                "qualificationname": "BA",
+                "passingyear": 2021,
+                "percentage": "75"
             }
         ]
     }
